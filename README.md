@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/noeyeas"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&amp;size=48&amp;duration=3000&amp;pause=2500&amp;color=8FA2FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=80&amp;lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EA%B9%80%EC%84%B8%EC%97%B0%EC%9E%85%EB%8B%88%EB%8B%A4" alt="안녕하세요 김세연입니다" /></a>
+<a href="https://github.com/noeyeas"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&amp;size=48&amp;duration=4500&amp;pause=1000&amp;repeat=false&amp;color=8FA2FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=80&amp;lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EA%B9%80%EC%84%B8%EC%97%B0%EC%9E%85%EB%8B%88%EB%8B%A4" alt="안녕하세요 김세연입니다" /></a>
 
 **광운대학교 인공지능융합대학** · 학생회 **하성 회장**<br/>
 학생회 일을 하다 생긴 문제를 직접 서비스로 만들고, 실제 학우들이 쓰는 환경에서 운영합니다.
