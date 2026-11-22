@@ -28,8 +28,8 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=noeyeas&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide=stars,issues&amp;show=prs_merged&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8FA2FF&amp;icon_color=617DFF&amp;text_color=c9d1d9&amp;ring_color=617DFF&amp;locale=kr&amp;rank_icon=github" alt="GitHub 통계" />
-  <img height="170" src="https://streak-stats.demolab.com?user=noeyeas&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=617DFF&amp;fire=8FA2FF&amp;currStreakLabel=8FA2FF&amp;locale=ko" alt="연속 기여" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=noeyeas&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide=stars,issues,contribs&amp;show=prs_merged&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8FA2FF&amp;icon_color=617DFF&amp;text_color=c9d1d9&amp;ring_color=617DFF&amp;locale=kr&amp;rank_icon=github" alt="GitHub 통계" />
+  <img height="150" src="https://streak-stats.demolab.com?user=noeyeas&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=617DFF&amp;fire=8FA2FF&amp;currStreakLabel=8FA2FF&amp;locale=ko" alt="연속 기여" />
 </div>
 
 ---
