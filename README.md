@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/noeyeas"><img src="./greeting.svg" alt="Hi, I'm Saeyeon Kim · Momenta hodierna, memoriae crastinae" /></a>
+<a href="https://github.com/noeyeas"><img src="./greeting-en.svg" alt="Hi, I'm Saeyeon Kim · Momenta hodierna, memoriae crastinae" /></a>
 
 **광운대학교 인공지능융합대학** · 학생회 **하성 회장**<br/>
 학생회 일을 하다 생긴 문제를 직접 서비스로 만들고, 실제 학우들이 쓰는 환경에서 운영합니다.
