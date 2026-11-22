@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:617dff,100:1f2544&height=190&section=header&text=Saeyeon%20Kim&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Build%20it.%20Run%20it.%20For%20real%20users.&descSize=18&descAlignY=60" width="100%" />
 
-### 안녕하세요, 김세연입니다 👋
+<a href="https://github.com/noeyeas"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&amp;size=40&amp;duration=3000&amp;pause=1200&amp;color=8FA2FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=70&amp;lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%20%EA%B9%80%EC%84%B8%EC%97%B0%EC%9E%85%EB%8B%88%EB%8B%A4%20%3A);%ED%95%99%EC%83%9D%ED%9A%8C%20%EC%9D%BC%EC%9D%84%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%9A%94;145%EB%AA%85%EC%9D%B4%20%EC%93%B4%20%ED%95%B4%EC%BB%A4%ED%86%A4%20%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84%20%EC%9A%B4%EC%98%81%ED%96%88%EC%96%B4%EC%9A%94;%EC%98%A4%EB%8A%98%EB%8F%84%20%ED%95%99%EC%9A%B0%EB%93%A4%EC%9D%B4%20%EC%93%B0%EB%8A%94%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%EB%A5%BC%20%EA%B3%A0%EC%B3%90%EC%9A%94" alt="타이핑 소개" /></a>
 
 **광운대학교 인공지능융합대학** · 학생회 **하성 회장**<br/>
 학생회 일을 하다 생긴 문제를 직접 서비스로 만들고, 실제 학우들이 쓰는 환경에서 운영합니다.
@@ -22,6 +22,15 @@
 | 📦 **[하성 복지물품 대여 키오스크](https://github.com/noeyeas/hasung-welfare-kiosk)**<br/>[Live Demo](https://noeyeas.github.io/hasung-welfare-kiosk/) | 수기 대여 장부를 학생회실 태블릿 키오스크(PWA)로 전환 | 이용 **494건 · 88명**<br/>(2026.06 ~ 11.21) | Vanilla JS · PWA · Apps Script |
 | 🎓 **[인융대 오픈카톡방 인증](https://github.com/noeyeas/aiconv_2026)**<br/>[Live](https://noeyeas.github.io/aiconv_2026/) | 학생증 QR + 신분증 OCR로 신입생 오픈카톡방 입장을 자동 검증 | 서버 없이 브라우저에서만 처리 | jsQR · Tesseract.js |
 | 🌙 **[인융대의 밤 입장 체크](https://github.com/noeyeas/inbam-checkin)** | 도서관 QR로 소속 · 학생회비 납부 · 중복 수령을 판정하는 행사 입장 시스템 | 2026.12.01 행사 운영용 | HTML · Apps Script |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=noeyeas&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;hide=stars,issues&amp;show=prs_merged&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=8FA2FF&amp;icon_color=617DFF&amp;text_color=c9d1d9&amp;ring_color=617DFF&amp;locale=kr&amp;rank_icon=github" alt="GitHub 통계" />
+  <img height="170" src="https://streak-stats.demolab.com?user=noeyeas&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=617DFF&amp;fire=8FA2FF&amp;currStreakLabel=8FA2FF&amp;locale=ko" alt="연속 기여" />
+</div>
 
 ---
 
