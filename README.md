@@ -5,7 +5,6 @@
 **광운대학교 인공지능융합대학** · 학생회 **하성 회장**<br/>
 학생회 일을 하다 생긴 문제를 직접 서비스로 만들고, 실제 학우들이 쓰는 환경에서 운영합니다.
 
-[![Email](https://img.shields.io/badge/Email-k.saeyeon114@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:k.saeyeon114@gmail.com)
 
 </div>
 
