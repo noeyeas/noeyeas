@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:617dff,100:1f2544&height=190&section=header&text=Saeyeon%20Kim&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Build%20it.%20Run%20it.%20For%20real%20users.&descSize=18&descAlignY=60" width="100%" />
-
-<a href="https://github.com/noeyeas"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&amp;size=40&amp;duration=3000&amp;pause=1200&amp;color=8FA2FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=70&amp;lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!%20%EA%B9%80%EC%84%B8%EC%97%B0%EC%9E%85%EB%8B%88%EB%8B%A4%20%3A);%ED%95%99%EC%83%9D%ED%9A%8C%20%EC%9D%BC%EC%9D%84%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%9A%94;145%EB%AA%85%EC%9D%B4%20%EC%93%B4%20%ED%95%B4%EC%BB%A4%ED%86%A4%20%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%84%20%EC%9A%B4%EC%98%81%ED%96%88%EC%96%B4%EC%9A%94;%EC%98%A4%EB%8A%98%EB%8F%84%20%ED%95%99%EC%9A%B0%EB%93%A4%EC%9D%B4%20%EC%93%B0%EB%8A%94%20%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%EB%A5%BC%20%EA%B3%A0%EC%B3%90%EC%9A%94" alt="타이핑 소개" /></a>
+<a href="https://github.com/noeyeas"><img src="https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&amp;size=48&amp;duration=3000&amp;pause=2500&amp;color=8FA2FF&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=80&amp;lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EA%B9%80%EC%84%B8%EC%97%B0%EC%9E%85%EB%8B%88%EB%8B%A4" alt="안녕하세요 김세연입니다" /></a>
 
 **광운대학교 인공지능융합대학** · 학생회 **하성 회장**<br/>
 학생회 일을 하다 생긴 문제를 직접 서비스로 만들고, 실제 학우들이 쓰는 환경에서 운영합니다.
